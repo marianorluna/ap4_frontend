@@ -33,3 +33,4 @@ interface Planet{
     numberOfMoons : number;
     hasMoons : boolean;
 } //Define como será la interface del objeto Planet (todos deben estar definidos)
+
