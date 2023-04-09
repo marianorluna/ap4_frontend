@@ -1,1 +1,1 @@
-//Código en lenguaje Typescript
+//Código en lenguaje Typescript.

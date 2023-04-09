@@ -1,1 +1,1 @@
-//Código escrito en lenguaje Javascript
+//Código escrito en lenguaje Javascript.
